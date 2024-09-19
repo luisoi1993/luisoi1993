@@ -1,7 +1,7 @@
 
 # 🌟 ¡Bienvenido a mi GitHub! 🌟
 
-¡Hola! Soy [luisoi1993], apasionado por la tecnología, el desarrollo de software y siempre en busca de nuevos retos. Aquí podrás encontrar mis proyectos más recientes, ideas en desarrollo y soluciones creativas.
+¡Hola! Soy luisoi1993, apasionado por la tecnología, el desarrollo de software y siempre en busca de nuevos retos. Aquí podrás encontrar mis proyectos más recientes, ideas en desarrollo y soluciones creativas.
 
 ## 🚀 ¿Qué encontrarás aquí?
 
